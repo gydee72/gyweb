@@ -2304,7 +2304,7 @@ select.mobile-device {
 }
 .news-box form .form-group .form-control {
     width: 100%;
-    background: transparent;
+    background: #4196a9eb;
     font-size: 16px;
     line-height: 24px;
     color: #ffffff;
