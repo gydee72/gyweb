@@ -1,0 +1,9 @@
+User-agent:*
+Dissallow:
+Allow: /index.html
+/site.html
+/community.html
+/seo.html
+/case-study.html
+/pricing.html
+Sitemap: https://gybseo.tk/robots.txt
